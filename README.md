@@ -19,7 +19,7 @@ This project aims to build a scalable data warehouse architecture using Azure se
 4. Connect Azure Synapse to PostgreSQL for large-scale querying
 5. Build a Power BI dashboard to visualize key bike usage metrics
 
-## ⚙ How to Run
+##  How to Run
 
 ```bash
 python ProjectDataToPostgres.py
